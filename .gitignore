@@ -1,0 +1,6 @@
+*.user
+*.suo
+*.typemock
+bin/
+obj/
+_ReSharper*
